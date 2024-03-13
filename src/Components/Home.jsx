@@ -25,7 +25,7 @@ const Home = () => {
   const textContent = useRef();
   const handleDownload = () => {
     saveAs(
-      "https://drive.google.com/file/d/1AhOKrdPvm22DObkWfroZlFcsunV4n0cZ/view?usp=sharing",
+      "https://drive.google.com/file/d/1y0tSEmUT1bvBldJgXKtMvA3TuVxhlKTH/view?usp=drive_link",
       "Light_Resume.pdf"
     );
   };
